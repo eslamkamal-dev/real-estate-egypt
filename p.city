@@ -1,0 +1,1 @@
+    setFiltered(city === '' ? properties : properties.filter(p = === city));
